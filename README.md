@@ -50,10 +50,10 @@ Pour faciliter votre passage devant le jury, déposez sur la plateforme, dans un
 
 Soutenance :
 Pendant la soutenance, l’évaluateur jouera le rôle d’un collègue à qui vous présentez votre travail, avant de le présenter à une personne chez Olist. Vous lui présenterez l’ensemble de votre travail. 
-- Présentation (20 minutes) 
-- Présentation de la problématique, du cleaning effectué, du feature engineering et de l'exploration – 5 min.
-- Présentation des différentes pistes de modélisation effectuées et du modèle final sélectionné – 10 min.
-- Présentation de la simulation pour définir le délai de maintenance du modèle (contrat de maintenance) – 5 min.
+- Présentation (20 minutes)   
+    -> Présentation de la problématique, du cleaning effectué, du feature engineering et de l'exploration – 5 min.  
+    -> Présentation des différentes pistes de modélisation effectuées et du modèle final sélectionné – 10 min.  
+    -> Présentation de la simulation pour définir le délai de maintenance du modèle (contrat de maintenance) – 5 min.  
 - Discussion (5 minutes)
 L’évaluateur vous challengera sur vos choix. 
 - Débriefing (5 minutes)
