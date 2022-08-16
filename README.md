@@ -29,38 +29,3 @@ Nous sommes confiants sur le fait que les données à disposition suffiront pour
 La segmentation proposée doit être exploitable et facile d’utilisation par notre équipe Marketing. Elle doit au minimum pouvoir différencier les bons et moins bons clients en termes de commandes et de satisfaction. Nous attendons bien sûr une segmentation sur l’ensemble des clients.
 
 Dans un deuxième temps, une fois le modèle de segmentation choisi, nous souhaiterions  que vous nous fassiez une recommandation de fréquence à laquelle la segmentation doit être mise à jour pour rester pertinente, afin de pouvoir effectuer un devis de contrat de maintenance.
-
-Pour information, le code fourni doit respecter la convention PEP8, pour être utilisable par Olist.
-
-Bien à vous,
-
-Juan, de l’équipe Marketing
-
-Vous réalisez donc trois autres documents afin de préparer une réponse à Olist : 
-- un notebook avec des essais des différentes approches de modélisation ;
-- un notebook de simulation pour déterminer la fréquence nécessaire de mise à jour du modèle de segmentation, afin que celui-ci reste pertinent ; 
-- une présentation pour un collègue afin d’obtenir ses retours sur votre approche.
-
-Livrables :
-- Un notebook de l'analyse exploratoire (non cleané, pour comprendre votre démarche).
-- Un notebook (ou code commenté au choix) d’essais des différentes approches de modélisation (non cleané, pour comprendre votre démarche).
-- Un notebook de simulation pour déterminer la fréquence nécessaire de mise à jour du modèle de segmentation.
-- Un support de présentation pour présenter votre travail à un collègue.
-Pour faciliter votre passage devant le jury, déposez sur la plateforme, dans un dossier nommé “P[numéroduprojet]_nom_prenom”, tous les livrables du projet. Chaque livrable doit être nommé avec le numéro du projet et selon l'ordre dans lequel il apparaît, par exemple “P5_01_notebookanalyse”, “P5_02_notebookessais”, et ainsi de suite.
-
-Soutenance :
-Pendant la soutenance, l’évaluateur jouera le rôle d’un collègue à qui vous présentez votre travail, avant de le présenter à une personne chez Olist. Vous lui présenterez l’ensemble de votre travail. 
-- Présentation (20 minutes)   
-    -> Présentation de la problématique, du cleaning effectué, du feature engineering et de l'exploration – 5 min.  
-    -> Présentation des différentes pistes de modélisation effectuées et du modèle final sélectionné – 10 min.  
-    -> Présentation de la simulation pour définir le délai de maintenance du modèle (contrat de maintenance) – 5 min.  
-- Discussion (5 minutes)
-L’évaluateur vous challengera sur vos choix. 
-- Débriefing (5 minutes)
-À la fin de la soutenance, vous pourrez débriefer ensemble.
-
-Compétences évaluées :
-- Mettre en place le modèle d'apprentissage non supervisé adapté au problème métier
-- Transformer les variables pertinentes d'un modèle d'apprentissage non supervisé
-- Adapter les hyperparamètres d'un algorithme non supervisé afin de l'améliorer
-- Évaluer les performances d’un modèle d'apprentissage non supervisé
